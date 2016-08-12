@@ -1,0 +1,31 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2016.07.16.13.11.13;	author pi;	state Exp;
+branches;
+next	;
+commitid	100578A327141C3A3F7;
+
+
+desc
+@@
+
+
+1.1
+log
+@*** empty log message ***
+@
+text
+@<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="wst.web"/>
+  <installed facet="wst.web" version="1.0"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+</faceted-project>
+@

@@ -1,0 +1,41 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.2
+date	2016.07.16.22.39.04;	author pi;	state dead;
+branches;
+next	1.1;
+commitid	100578AB7884A929E11;
+
+1.1
+date	2016.07.16.21.55.33;	author pi;	state Exp;
+branches;
+next	;
+commitid	100578AAD5548986BBE;
+
+
+desc
+@@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@css-profile/loginpage.html=org.eclipse.wst.css.core.cssprofile.css3
+eclipse.preferences.version=1
+@
+
+
+1.1
+log
+@wh
+@
+text
+@@
+
