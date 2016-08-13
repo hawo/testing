@@ -12,7 +12,7 @@
    </head>
    <body>
 
-      <header><h1>Das ist ein Test Heade oooo</h1></header>
+      <header><h1>Das ist ein Test Headeoooo</h1></header>
       
       <div class="container-fluid">
 	 <div class="row">
